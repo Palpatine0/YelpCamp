@@ -1,0 +1,8 @@
+/* Head.css */
+
+/* Style the menu item text */
+.ant-menu-horizontal > .ant-menu-item:hover,
+.ant-menu-horizontal > .ant-menu-item-active,
+.ant-menu-horizontal > .ant-menu-item-selected {
+    color: white !important; /* Change text color to white on hover, active, and selected */
+}
